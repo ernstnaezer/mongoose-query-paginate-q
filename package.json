@@ -1,0 +1,18 @@
+{
+  "name": "mongoose-query-paginate-q",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "enix",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/enix/mongoose-query-paginate-q.git"
+  },
+  "keywords": ["mongoose", "paginate", "pager", "q"],
+  "license": "MIT",
+  "description": "Mongoose Query paginate for Q.",
+  "devDependencies": {
+    "mongoose": "*",
+    "mocha": "*",
+    "q":"*"
+  }
+}
