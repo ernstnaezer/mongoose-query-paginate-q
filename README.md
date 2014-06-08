@@ -38,4 +38,4 @@ The MIT License
 
 ## Note
 
-This code is for 99.9% based on what lowol wrote in the (mongoose-query-paginate)[https://github.com/lowol/mongoose-query-paginate] library.
+This code is for 99.9% based on what lowol wrote in the [mongoose-query-paginate](https://github.com/lowol/mongoose-query-paginate) library.
